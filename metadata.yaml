@@ -1,0 +1,28 @@
+_repo: Tough-yarns-b-A-series-of-naval-tales-and-sketches-to-please-all-hands-from-the-swabs-on-the-__72996
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sailor, The Old
+    gutenberg_agent_id: '56902'
+    url: http://www.gutenberg.org/2009/agents/56902
+description: ''
+gutenberg_issued: '2024-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72996'
+language: en
+pgterms:marc905: 20230218124933theoldsail
+pgterms:marc906: '1835'
+pgterms:marc907: US
+production_note: hekula03, Terry Jeffress and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aPhiladelphia :$bE. L. Carey and A. Hart, $c1835.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Tough yarns : $b A series of naval tales and sketches to please all hands,
+  from the swabs on the shoulders down to the swabs in the head'
+url: http://www.gutenberg.org/ebooks/72996
