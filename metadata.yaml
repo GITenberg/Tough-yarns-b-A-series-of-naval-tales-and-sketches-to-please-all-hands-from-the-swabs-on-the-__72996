@@ -1,11 +1,16 @@
 _repo: Tough-yarns-b-A-series-of-naval-tales-and-sketches-to-please-all-hands-from-the-swabs-on-the-__72996
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72996-h/images/cover.jpg
 creator:
   author:
     agent_name: Sailor, The Old
     gutenberg_agent_id: '56902'
     url: http://www.gutenberg.org/2009/agents/56902
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72996#Tough-yarns-b-A-series-of-naval-tales-and-sketches-to-please-all-hands-from-the-swabs-on-the-_
 gutenberg_issued: '2024-02-20'
 gutenberg_type: Text
 identifiers:
